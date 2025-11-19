@@ -1,1 +1,1 @@
-This is `conflict.md` file in main brnch.
+This is `conflict.md` file in main brnc
