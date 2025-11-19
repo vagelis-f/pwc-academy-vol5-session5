@@ -52,7 +52,8 @@ A fork is your own copy of someone else’s repository. Use it when:
 **How to a Fork the Repository:**
 1. Go to the original repository in Github
 2. Click the "Fork" Button
-3. Choose a Name & Settings
+3. Choose a repository name & description
+4. Uncheck "Copy the main branch only" option
 4. Click on "Create Fork"
 5. Clone Your Fork Locally:  `git clone <fork-url>`
 
